@@ -1,0 +1,31 @@
+body{
+    color: rgb(22, 22, 22);
+}
+#contenedor-general{
+    background-color: lightyellow;
+}
+#contenedor{
+    background-color: yellow;
+}
+#titulo{
+    padding: 3px 3px 1px 3px;
+    color: rgb(88, 88, 88);
+    font-size: 25px;
+}
+#titulo2{
+    color: lightskyblue;
+    font-style: italic;
+}
+.subtitulos{
+    color: navy;
+    font-weight: bold;
+    padding-top: 5px;
+}
+.info{
+    color: grey;
+}
+.parrafo{
+    margin-left: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
